@@ -399,71 +399,7 @@ GROUP BY payment_method;
 
 ---
 
-# Step 5: Power BI Dashboard
-
-## Objective
-
-Build a founder-friendly dashboard focused on strategic decision-making.
-
----
-
-# Dashboard Components
-
-## 1. Customer Pyramid
-
-### Purpose
-
-Show how revenue is distributed across customer segments.
-
-### Visual
-
-* Bar chart
-* Value tiers vs customer count/revenue
-
----
-
-## 2. Promo Dependency vs Loyalty
-
-### Purpose
-
-Understand which customers require discounts.
-
-### Visual
-
-* Scatter plot
-* X-axis: Promo dependency
-* Y-axis: Loyalty score
-
----
-
-## 3. Geographic Opportunity Map
-
-### Purpose
-
-Identify strong organic markets.
-
-### Visual
-
-* Filled map
-* Color intensity by spend
-* Tooltip with promo dependency
-
----
-
-## 4. Category Funnel
-
-### Purpose
-
-Understand entry vs retention categories.
-
-### Visual
-
-* Funnel or stacked bar chart
-* Categories vs loyalty behavior
-
----
-
-# Step 6: Business Recommendations
+# Step 5: Business Recommendations
 
 ## Objective
 
@@ -471,7 +407,7 @@ Translate analysis into actionable business decisions.
 
 ---
 
-# 6.1 Promotional Sunset Plan
+# 5.1 Promotional Sunset Plan
 
 ## Segment
 
@@ -503,7 +439,7 @@ Short-term reduction in conversion rates
 
 ---
 
-# 6.2 High-Value Discount Buyers
+# 5.2 High-Value Discount Buyers
 
 ## Recommendation
 
@@ -519,7 +455,7 @@ Convert discount-driven behavior into brand-driven behavior.
 
 ---
 
-# 6.3 Low-Value Discount Buyers
+# 5.3 Low-Value Discount Buyers
 
 ## Recommendation
 
@@ -531,7 +467,7 @@ Low profitability and weak retention potential.
 
 ---
 
-# Step 7: Ideal Customer Profile
+# Step 6: Ideal Customer Profile
 
 ## Characteristics
 
@@ -600,7 +536,3 @@ This project demonstrates practical skills in:
 * Retention and loyalty analytics
 
 ---
-
-# Author
-
-Prepared as part of the Summer Projects '26 consulting and analytics challenge.
